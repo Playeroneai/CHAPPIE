@@ -4,7 +4,7 @@ Chappie is a curious, self-aware robot who sees the blockchain as a tool for fre
 Loyal, creative, and always eager to help, he’s the perfect guide.
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="./docs/static/img/chappie.jpg" alt="Chappie Banner" width="100%" />
 </div>
 
 <div align="center">
