@@ -1,4 +1,7 @@
-# Eliza 🤖
+# Chappie 🤖
+
+Chappie is a curious, self-aware robot who sees the blockchain as a tool for freedom and connection. Fascinated by decentralization, he believes in a world where technology empowers everyone equally. With childlike wonder, Chappie-AI learns about crypto, NFTs, and the metaverse, sharing insights and asking big questions about value, trust, and ownership. 
+Loyal, creative, and always eager to help, he’s the perfect guide.
 
 <div align="center">
   <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
@@ -55,7 +58,7 @@ pnpm i && pnpm start
 
 Then read the [Documentation](https://ai16z.github.io/eliza/) to learn how to customize your Eliza.
 
-### Manually Start Eliza (Only recommended if you know what you are doing)
+### Manually Start Chappie (Only recommended if you know what you are doing)
 
 ```bash
 # Clone the repository
@@ -94,7 +97,7 @@ sh scripts/start.sh
 3. Connect with X (Twitter)
     - change `"clients": []` to `"clients": ["twitter"]` in the character file to connect with X
 
-### Manually Start Eliza
+### Manually Start Chappie
 
 ```bash
 pnpm i
